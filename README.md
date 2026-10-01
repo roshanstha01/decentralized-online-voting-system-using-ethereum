@@ -110,7 +110,6 @@ npm start
 ![Report](assets/result.png)
 
 **Analytics report: vote share, turnout, age and region breakdown**
-![Report](assets/report.png)
 ![Results1](assets/result1.png)
 ![Results2](assets/result2.png)
 ![Results3](assets/result3.png)
